@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield Background -->
+  <path d="M8 7 Q8 4 11 4 H21 Q24 4 24 7 V16 Q24 23 16 27 Q8 23 8 16 V7 Z" 
+        fill="#2563eb"/>
+  
+  <!-- Location Pin Inside Shield -->
+  <circle cx="16" cy="11" r="2.5" fill="#ffffff"/>
+  <circle cx="16" cy="11" r="1" fill="#2563eb"/>
+  <path d="M16 13.5 L13.5 19 Q16 18 18.5 19 Z" fill="#ffffff"/>
+  
+  <!-- Protection Dot -->
+  <circle cx="22" cy="10" r="2" fill="#ffffff"/>
+  <circle cx="22" cy="10" r="1" fill="#2563eb"/>
+</svg>

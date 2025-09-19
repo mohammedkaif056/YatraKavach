@@ -1,0 +1,81 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+.yarn/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+out/
+.output/
+stats.html
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local development
+*.local
+.eslintcache
+.stylelintcache
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.project
+.classpath
+.c9/
+*.launch
+*.sublime-workspace
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vite
+.vite/
+
+# Cache and temporary files
+.cache/
+.temp/
+.history/
+tmp/
+.firebase/
+
+# Build system
+.bolt/data/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Package managers
+.npm/
+yarn-error.log
+.npmrc

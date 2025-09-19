@@ -1,0 +1,73 @@
+{
+  "name": "YatraKavach - Smart Tourism Safety Platform",
+  "short_name": "YatraKavach",
+  "description": "Comprehensive safety and security platform for tourists, providing real-time protection, emergency assistance, and safety insights.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["travel", "safety", "security", "tourism"],
+  "icons": [
+    {
+      "src": "/logo-16.svg",
+      "sizes": "16x16",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-32.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-64.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.svg",
+      "sizes": "128x128 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Emergency Alert",
+      "short_name": "Emergency",
+      "description": "Quick access to emergency services",
+      "url": "/emergency",
+      "icons": [
+        {
+          "src": "/logo-32.svg",
+          "sizes": "32x32",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Safety Dashboard",
+      "short_name": "Safety",
+      "description": "View safety status and recommendations",
+      "url": "/dashboard",
+      "icons": [
+        {
+          "src": "/logo-32.svg",
+          "sizes": "32x32",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}

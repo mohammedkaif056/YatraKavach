@@ -1,0 +1,9 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified Shield -->
+  <path d="M4 3 Q4 2 5 2 H11 Q12 2 12 3 V8 Q12 11 8 13 Q4 11 4 8 V3 Z" 
+        fill="#2563eb"/>
+  
+  <!-- Simple Location Dot -->
+  <circle cx="8" cy="6" r="1.5" fill="#ffffff"/>
+  <path d="M8 7.5 L6.5 10 Q8 9.5 9.5 10 Z" fill="#ffffff"/>
+</svg>
